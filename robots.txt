@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahhuecada.smallupbp.com/sitemap.xml
